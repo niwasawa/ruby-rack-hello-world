@@ -6,7 +6,7 @@ Hello World samples with Ruby's Rack
 ```
 $ git clone https://github.com/niwasawa/ruby-rack-hello-world.git
 $ cd ruby-rack-hello-world
-$ bundle install
+$ bundle install --path vendor/bundle
 ```
 
 ## Run hello world
